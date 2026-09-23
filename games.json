@@ -2,19 +2,39 @@
   "games": [
     {
       "id": "game-1",
-      "title": "Example Game",
-      "description": "Replace this URL with an HTML5 game you are allowed to embed.",
+      "title": "geometrydash",
+      "description": ".",
       "icon": "🎮",
       "tags": ["arcade"],
-      "url": "https://example.com/"
+      "url": "https://www.geometrydash.com/"
     },
     {
       "id": "game-2",
-      "title": "Second Game",
-      "description": "Add another iframe URL here.",
+      "title": "snow rider",
+      "description": ".",
       "icon": "🕹️",
       "tags": ["action"],
-      "url": "https://example.com/"
+      "url": "https://snow-rider.gitlab.io/"
+    }
+  ]
+}
+{
+  "games": [
+    {
+      "id": "game-3",
+      "title": "retro bowl college",
+      "description": ".",
+      "icon": "",
+      "tags": ["rbc"],
+      "url": "https://retro-bowl-college.com/"
+    },
+    {
+      "id": "game-4",
+      "title": "ovo",
+      "description": ".",
+      "icon": "🕹️",
+      "tags": ["ovo],
+      "url": "https://www.hoodamath.com/games/ovo.html#gsc.tab=0"
     }
   ]
 }
